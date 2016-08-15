@@ -1,0 +1,22 @@
+body{
+  background-color:grey;
+}
+header{
+  color:yelow;
+  border: 5px groove yellow;
+  border-radius: 12px;
+  text-align: center;
+  width: 170px;
+  height: 20px;
+}
+p{
+  display: block;
+}
+em{
+  display:block;
+}
+input{
+  border: 3px solid red;
+  color: yellow;
+  background-color: grey;
+}
